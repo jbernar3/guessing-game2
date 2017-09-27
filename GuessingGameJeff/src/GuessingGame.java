@@ -1,6 +1,6 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-// its me Usman yerr
+// its me Usman juhurddd
 
 public class GuessingGame {
 	public static void main (String[] args)
