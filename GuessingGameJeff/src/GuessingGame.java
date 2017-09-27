@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 // its me Usman juhurdddd
-//hey friend hahah
+//hey friend hahahhaha
 public class GuessingGame {
 	public static void main (String[] args)
 	{
